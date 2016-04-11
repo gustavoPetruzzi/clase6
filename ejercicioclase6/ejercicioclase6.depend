@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1460345494 source:/home/yusti/Escritorio/C/ejercicioclase6/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1460344839 /home/yusti/Escritorio/C/ejercicioclase6/utn.h
+
+1460345804 source:/home/yusti/Escritorio/C/ejercicioclase6/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
